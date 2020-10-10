@@ -5,6 +5,6 @@ a = 20.3
 b= "Hello World"
 print(a,b)
 #Varicables can hold float and string value as well
-x = "Anjali"
+x = "Anjali Maharah"
 print(x)
 #Variable can be redefined 
